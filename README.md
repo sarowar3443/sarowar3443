@@ -14,7 +14,7 @@ Feel free to explore my projects, where I apply my knowledge and creativity. Tho
 - JavaScript
 
 ## How to Reach Me
-- Email: [mesarowarhosen@gmail.com](mailto:mesarowarhosen@gmail.com):
+- Email: [mesarowarhosen@gmail.com](mailto:mesarowarhosen@gmail.com)
 
 
 Let's connect and create something amazing together! 🚀
